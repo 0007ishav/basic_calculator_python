@@ -9,4 +9,5 @@ Follow the steps below to download and run the project on your local machine.
 **Prerequisites:**
 
 Python 3.x installed on your system.
+VS Code
 Git (optional) to clone the repository.
